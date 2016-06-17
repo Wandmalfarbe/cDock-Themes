@@ -4,7 +4,9 @@ Some themes for [cDock 2](http://w0lfschild.github.io/app_cDock.html) (a dock cu
 
 ## Installation
 
-Move the theme folders to `~/Library/Application Support/cDock/themes/` and restart cDock.
+Move the theme folders to `~/Library/Application Support/cDock/themes/` and restart cDock. You can open the `themes` folder by Using the *Go to Folder...* menu item in Finder under the *Go* menu.
+
+**Note**: To navigate the Library folder in Finder directly you have to show hidden files.
 
 ## Themes
 
