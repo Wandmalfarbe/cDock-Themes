@@ -16,15 +16,23 @@ Move the theme folders to `~/Library/Application Support/cDock/themes/` and rest
 
 **Graphite (Light)**
 
-![Graphite (Light) theme preview](Graphite (Light)/preview_light.png)
+![Graphite (Light) theme preview](Graphite%20(Light)/preview_light.png)
 
 **Graphite Bar**
 
-![Graphite Bar theme preview](Graphite Bar/preview_light.png)
+![Graphite Bar theme preview](Graphite%20Bar/preview_light.png)
 
 **Graphite Bar (Light)**
 
-![Graphite Bar (Light) theme preview](Graphite Bar (Light)/preview_light.png)
+![Graphite Bar (Light) theme preview](Graphite%20Bar%20(Light)/preview_light.png)
+
+**Pantherophis**
+
+![Pantherophis theme preview](Pantherophis/preview_light.png)
+
+**Pantherophis Bar**
+
+![Pantherophis Bar theme preview](Pantherophis%20Bar/preview_light.png)
 
 ## License
 
