@@ -12,7 +12,7 @@ Move the theme folders to `~/Library/Application Support/cDock/themes/` and rest
 
 **Elementary**
 
-Inspired by the default dock Plank of [elementary OS](https://elementary.io/).
+Inspired by the default dock Plank from [elementary OS](https://elementary.io/).
 
 ![Elementary theme preview](Elementary/preview_dark.png)
 
@@ -31,6 +31,12 @@ Inspired by the default dock Plank of [elementary OS](https://elementary.io/).
 **Graphite Bar (Light)**
 
 ![Graphite Bar (Light) theme preview](Graphite%20Bar%20(Light)/preview_light.png)
+
+**Leopard**
+
+Inspired by the dock from Mac OS X Leopard (version 10.5).
+
+![Leopard theme preview](Leopard/preview_dark.png)
 
 **Pantherophis**
 
