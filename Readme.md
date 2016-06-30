@@ -10,6 +10,12 @@ Move the theme folders to `~/Library/Application Support/cDock/themes/` and rest
 
 ## Themes
 
+**Elementary**
+
+Inspired by the default dock Plank of [elementary OS](https://elementary.io/).
+
+![Elementary theme preview](Elementary/preview_dark.png)
+
 **Graphite**
 
 ![Graphite theme preview](Graphite/preview_light.png)
@@ -33,6 +39,10 @@ Move the theme folders to `~/Library/Application Support/cDock/themes/` and rest
 **Pantherophis Bar**
 
 ![Pantherophis Bar theme preview](Pantherophis%20Bar/preview_light.png)
+
+**Snow**
+
+![Snow theme preview](Snow/preview_dark.png)
 
 ## License
 
