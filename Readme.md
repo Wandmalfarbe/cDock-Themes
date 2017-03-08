@@ -6,7 +6,7 @@ Some themes for [cDock 2](http://w0lfschild.github.io/app_cDock.html) (a dock cu
 
 Move the theme folders to `~/Library/Application Support/cDock/themes/` and restart cDock. You can open the `themes` folder by Using the *Go to Folder...* menu item in Finder under the *Go* menu.
 
-**Note**: To navigate the Library folder in Finder directly you have to show hidden files.
+**Note**: In order to open the library folder directly you have to show hidden files.
 
 ## Themes
 
@@ -49,6 +49,10 @@ Inspired by the dock from Mac OS X Leopard (version 10.5).
 **Snow**
 
 ![Snow theme preview](Snow/preview_dark.png)
+
+**Brushed Metal**
+
+![Brushed Metal theme preview](Brushed%20Metal/preview_dark.png)
 
 ## License
 
