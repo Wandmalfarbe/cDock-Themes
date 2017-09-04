@@ -1,3 +1,5 @@
+<img src="icon.png" align="right" height="110"/>
+
 # cDock Themes
 
 Some themes for [cDock 2](http://w0lfschild.github.io/app_cDock.html) (a dock customization app for OS X 10.9 and above).

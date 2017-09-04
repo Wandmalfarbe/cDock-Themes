@@ -3,7 +3,7 @@ private/
 build/
 
 # The source SVGs
-*.svg
+/*/*.svg
 
 # OS or Editor folders
 ._*
