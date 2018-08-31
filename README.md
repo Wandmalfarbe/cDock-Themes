@@ -2,7 +2,7 @@
 
 # cDock Themes
 
-Some themes for [cDock 3](http://w0lfschild.github.io/app_cDock.html) (a dock customization app for macOS 10.10 and above).
+Some retina ready themes for [cDock 3](https://www.macenhance.com/cdock.html) (a dock customization app for macOS 10.10 and above).
 
 ## Installation
 
