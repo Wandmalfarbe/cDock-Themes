@@ -52,6 +52,10 @@ Inspired by the default dock Plank from [elementary OS](https://elementary.io/).
 
 ![Snow theme preview](Snow/preview-dark.png)
 
+**White Glass**
+
+![White Glass theme preview](White%20Glass/preview-light.png)
+
 ## License
 
 This project is open source licensed under the BSD 3-Clause License. Please see the [LICENSE file](LICENSE) for more information.

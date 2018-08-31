@@ -13,12 +13,13 @@ themes=(
 	'Pantherophis'
 	'Pantherophis Bar'
 	'Snow'
+	'White Glass'
 )
 
 inkscapePath="/Applications/Inkscape.app/Contents/Resources/bin/inkscape";
 
 for i in "${themes[@]}"
 do
-   : 
-   $inkscapePath -e "$(PWD)/$i/background.png" --export-area-page --export-dpi 384 "$(PWD)/$i/background.svg"
+	: 
+	$inkscapePath -e "$(PWD)/$i/background.png" --export-area-page --export-dpi 384 "$(PWD)/$i/background.svg"
 done
