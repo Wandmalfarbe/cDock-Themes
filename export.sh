@@ -10,6 +10,7 @@ themes=(
 	'Elementary'
 	'Graphite Bar'
 	'Graphite Bar (Light)'
+	'Nelumbo Nucifera'
 	'Pantherophis'
 	'Pantherophis Bar'
 	'Snow'

@@ -40,6 +40,10 @@ Inspired by the default dock Plank from [elementary OS](https://elementary.io/).
 
 ![Graphite Bar (Light) theme preview](Graphite%20Bar%20(Light)/preview-dark.png)
 
+**Nelumbo Nucifera**
+
+![Nelumbo Nucifera theme preview](Nelumbo%20Nucifera/preview-dark.png)
+
 **Pantherophis**
 
 ![Pantherophis theme preview](Pantherophis/preview-light.png)
