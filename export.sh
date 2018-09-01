@@ -7,6 +7,7 @@ themes=(
 	'10.5 - Leopard'
 	'Black Glass'
 	'Brushed Metal'
+	'Clear Glass'
 	'Elementary'
 	'Graphite Bar'
 	'Graphite Bar (Light)'

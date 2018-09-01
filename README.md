@@ -26,6 +26,10 @@ Inspired by the default dock from Mac OS X Leopard (version 10.5).
 
 ![Brushed Metal theme preview](Brushed%20Metal/preview-dark.png)
 
+**Clear Glass**
+
+![Clear Glass theme preview](Clear%20Glass/preview-dark.png)
+
 **Elementary**
 
 Inspired by the default dock Plank from [elementary OS](https://elementary.io/).
